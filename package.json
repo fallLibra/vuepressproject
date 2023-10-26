@@ -1,0 +1,16 @@
+{
+  "name": "vuepressproject",
+  "version": "1.0.0",
+  "description": "\u001b[B\u001b[B成长",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
